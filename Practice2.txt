@@ -1,4 +1,9 @@
 My class contains 25 students.
 My class timings are very bad.
+<<<<<<< HEAD
 We are on 3rd line.
 4 line is also included.
+=======
+3rd line is important.
+Now we have 4 lines.
+>>>>>>> 638cb7f9aace38dd0fcd6ca0430881591ec23167
